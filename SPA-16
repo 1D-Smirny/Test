@@ -2,7 +2,7 @@
 
 $array = array("1" => 'Hello',  
               "2" => 'Username', 
-              "3" => 'Have a good day, chuvak'
+              "3" => 'Have a good day, echuvak'
               );
               
 foreach( $array as $key => $value ){
