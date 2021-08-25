@@ -1,6 +1,6 @@
 <?php
 
-$array = array("1" => 'Het lol kek',  
+$array = array("1" => 'Het lol kek cheburek',  
               "2" => 'Username', 
               "3" => 'Have a good day, cool'
               );
