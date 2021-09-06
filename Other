@@ -1,6 +1,6 @@
 <?php
 
-$array = array("1" => 'lol kek cheburek kek lol arbidol pei ne bolei bud zdorov cheeki breeki prisedai',  
+$array = array("1" => 'lol kek cheburek kek lol arbidol pei ne bolei bud zdorov cheeki breeki',  
               "2" => 'Username', 
               "3" => 'Have a good day, cool'
               );
